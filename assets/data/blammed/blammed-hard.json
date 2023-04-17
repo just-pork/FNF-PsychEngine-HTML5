@@ -2,8 +2,8 @@
 
 	"song": {
 		"sectionLengths": [],
-		"player1": "bf",
-		"player2": "tails",
+		"player1": "bf-car",
+		"player2": "pico",
 		"notes": [
 			{
 				"sectionNotes": [
